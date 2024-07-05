@@ -27,3 +27,4 @@ Requires: PHP 8.2, Database (SQLite/MariaDB/MySQL)
 ## License
 
 [MIT License](https://opensource.org/licenses/MIT)
+
